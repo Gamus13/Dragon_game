@@ -1,4 +1,4 @@
-import { SetUpGround, updateGround } from "./gro.js";
+import { SetUpGround, updateGround } from "./system.js";
 import { updateDino,setupDino } from "./dinosetup.js";
 import { updateCactus,setupCactus,getDinoRects,GetCactusRects, setDinoLose } from "./task.js";
 const WORLD_WIDTH = 100
